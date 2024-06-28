@@ -1,0 +1,7 @@
+{
+    "watch": ["server.js", "src/", "/*", "/", "/tailwind.config.js"],
+    "ignore": ["public/*"],
+    "exec": "node server.js",
+    "ext": "js,mjs,json,html,css",
+    "quiet": true
+  }

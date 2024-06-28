@@ -1,0 +1,29 @@
+#4E3D42 (Dark Brownish Purple):
+
+- Header and Footer Background: Creates a strong and stable foundation.
+- Primary Buttons: Emphasizes important actions like "Create Game" and "Join Game."
+
+#6D6466 (Grayish Purple):
+
+- Navigation Bar: Ensures visibility without overpowering other elements.
+- Secondary Buttons: For less critical actions like "Settings" or "Help."
+
+#9F9F92 (Light Gray):
+
+- Background for Game Board: Neutral, allowing Sudoku numbers to stand out.
+- Form Backgrounds: For input fields (e.g., Game ID entry).
+
+#C9D5B5 (Light Greenish Beige):
+
+- Background of Non-Game Areas: Provides a pleasant and calming backdrop.
+- Hover Effects on Buttons: Subtle feedback for interactive elements.
+
+#E3DBDB (Very Light Pinkish Beige):
+
+- Highlights and Accents: Use for borders, dividers, or to highlight active cells in the Sudoku grid.
+- Background of Pop-up Modals: Keeps them distinct but unobtrusive.
+
+#FFFFFF (White):
+
+- Text Color: Ensures readability against darker backgrounds.
+- Background for Main Content Area: Keeps the interface clean and readable.
